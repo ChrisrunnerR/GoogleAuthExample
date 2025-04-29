@@ -2,7 +2,7 @@
 //  InitialView.swift
 //  GoogleAuthExample
 //
-//  Created by MacBook on 4/29/25.
+//  Created by christopher on 4/29/25.
 //
 
 import SwiftUI
